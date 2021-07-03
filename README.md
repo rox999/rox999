@@ -4,7 +4,7 @@
 
 - 👨‍🎓 B.Tech. ***[IIITA'23](https://iiita.ac.in/)***
 -  📱 Currently learning Flutter/DSA/OS/OOPs
-- 💬 Ask me about flutter
+- 💬 Ask me about flutter/DSA
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: :blush: :heart: :blush:
 - 🙋‍♂️ willing to contribute more and more in open source projects
